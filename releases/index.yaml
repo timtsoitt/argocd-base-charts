@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.22.0
+    created: "2022-06-11T04:09:51.290336+08:00"
+    description: A nginx helm chart.
+    digest: c699495da07bb0f5a7b631fe61a539bbece85032db0864719cb7653c9f047271
+    name: nginx
+    urls:
+    - nginx-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-06-11T04:09:51.28975+08:00"
